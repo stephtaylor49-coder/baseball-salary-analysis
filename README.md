@@ -2,6 +2,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stephtaylor49-coder/baseball-salary-analysis/blob/main/BaseballSalary_ST.ipynb)
 
 **How to Use This Repository**
+
 **1. Open the Notebook**
   Click the “**Open in Colab**” button above.
   The notebook will open in your browser using Google Colab.
