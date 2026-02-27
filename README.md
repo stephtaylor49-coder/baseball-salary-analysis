@@ -33,11 +33,11 @@ After making changes:
   
   Choose the repository:
   
-    **baseball-salary-analysis**
+    baseball-salary-analysis
     
   Keep the file name the same:
   
-    **BaseballSalary_ST.ipynb**
+    BaseballSalary_ST.ipynb
     
   Add a short description of what you changed
   
