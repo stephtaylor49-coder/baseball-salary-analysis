@@ -11,6 +11,7 @@
   
   Make sure you are logged into your Google account.
 
+
 **2. Run the Notebook**
 
   In Colab, click Runtime at the top.
@@ -20,6 +21,7 @@
   If prompted, upload the required Excel file.
   
   The notebook will generate tables, charts, and output files.
+
 
 **3. Make Changes to the Code**
 
@@ -45,6 +47,7 @@ After making changes:
   
 Now the updated version is stored in GitHub.
 
+
 **4. Important Rules for Collaboration**
 
   Always open the notebook using the **Colab button in this repository**
@@ -55,7 +58,11 @@ Now the updated version is stored in GitHub.
   
   Do not upload output zip files or generated files to the repository
 
+
 **5. If Something Looks Broken**
+
   Refresh the GitHub page
+  
   Reopen the notebook using the Colab button
+  
   Click **Runtime → Restart and run all**
